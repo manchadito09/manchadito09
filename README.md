@@ -13,8 +13,6 @@
 
 Third-year Computer Engineering student at Universidad Rey Juan Carlos. I build **robotics** and **applied AI** projects, mostly in **Python**, and I'm especially into **machine learning** and **LLMs**.
 
-My rule of thumb: **the model reads, the code decides**. Every project below ships with tests, and the ones I built for myself run every day.
-
 <br/>
 
 ## Projects
