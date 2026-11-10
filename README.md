@@ -4,9 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=58A6FF&center=true&vCenter=true&width=560&lines=Robotics+and+applied+AI;Machine+learning+and+LLMs;I+build+things+people+actually+use" alt="Robotics and applied AI" />
 
-<a href="https://www.linkedin.com/in/rod-manc/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://x.com/manchadito09"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<img src="https://img.shields.io/badge/Open%20to-part--time%20%7C%20remote-238636?style=for-the-badge" alt="Open to part-time or remote" />
+<a href="https://www.linkedin.com/in/rod-manc/"><img src="https://img.shields.io/badge/LinkedIn-Rodrigo%20Manchado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/manchadito09"><img src="https://img.shields.io/badge/X-@manchadito09-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 
 </div>
 
