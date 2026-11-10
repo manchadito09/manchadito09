@@ -17,22 +17,11 @@ In summer 2026 I flew to Milwaukee to build a robot from scratch at Direct Suppl
 
 ---
 
-## Direct Supply · Office Guide Robot
-
-<a href="https://github.com/manchadito09/Robot-DS"><img src="https://img.shields.io/badge/GitHub-Robot--DS-181717?style=for-the-badge&logo=github" /></a>
-
-Robotics & AI Developer, Summer 2026, Milwaukee. Lead developer of **Robot-DS**, an indoor guide robot: you say *"take me to the kitchen"*, it plans the route, drives around the chair legs and talks to you on the way. Built with my brother [Adrián](https://github.com/manchado53).
-
-A Hiwonder JetRover on a **Jetson Orin Nano**, with **ROS 2 Humble + Nav2** on a LiDAR SLAM map, a depth camera for low obstacles, Claude as the voice brain and Whisper + Piper running **locally** on the robot. I worked on the architecture, navigation, perception, voice and the web/touchscreen app. Demoed live to company leadership, end to end, **no teleoperation**.
-
-<img src="https://skillicons.dev/icons?i=py,ros,linux" height="28"/>
-
----
-
 ## Projects
 
 | Project | What it is | Stack |
 |---|---|---|
+| **[Office Guide Robot (Direct Supply)](https://github.com/manchadito09/Robot-DS)** | Summer 2026 build in Milwaukee with my brother [Adrián](https://github.com/manchado53). You say *"take me to the kitchen"*: it plans the route, drives around the chair legs and talks to you on the way. A Hiwonder JetRover on a **Jetson Orin Nano**, **ROS 2 Humble + Nav2** on a LiDAR SLAM map, a depth camera for low obstacles, Claude as the voice brain and Whisper + Piper running **locally**. I was the lead developer: architecture, navigation, perception, voice and the web/touchscreen app. Demoed live to company leadership, **no teleoperation**. | <img src="https://skillicons.dev/icons?i=py,ros,linux" height="24"/> |
 | **[FactU · HackSpain 2026](https://github.com/manchadito09/HackSpain-Maisa-Bacon-Queso)** | Team of 5. Reads PDF invoices, cross-checks them with an Excel master and a legacy ERP, and decides to **pay, reject or escalate**. "The model reads, the code decides": OCR and an LLM extract, a deterministic rules engine decides, and every decision keeps its evidence. **500 invoices end to end in under 1 minute, €0 inference cost, 359 tests.** | <img src="https://skillicons.dev/icons?i=py,sqlite" height="24"/> OCR, LLMs |
 | **Órbita** | My life in one web app: calendar, notes, university grades, money and workouts. Hand-written SQL (no ORM), per-user data isolation, works without JavaScript, in Spanish and English. **712 automated tests.** Self-hosted on a home server and in daily use. (Code is private.) | <img src="https://skillicons.dev/icons?i=py,fastapi,sqlite" height="24"/> |
 | **Second Brain** | My notes in Markdown + Obsidian, with a Telegram bot on top: free LLMs through Groq, voice messages, a daily journal and reminders from Google Calendar. (Code is private.) | <img src="https://skillicons.dev/icons?i=py,obsidian" height="24"/> |
