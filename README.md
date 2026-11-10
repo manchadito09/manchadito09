@@ -1,8 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=190&section=header&text=Rodrigo%20Manchado&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20%C2%B7%20URJC%20%C2%B7%20Madrid&descSize=16&descAlignY=60" width="100%" alt="Rodrigo Manchado" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=170&section=header&text=Rodrigo%20Manchado&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Computer%20Engineering%20%C2%B7%20URJC%20%C2%B7%20Madrid&descSize=16&descAlignY=63" width="100%" alt="Rodrigo Manchado" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=58A6FF&center=true&vCenter=true&width=560&height=32&lines=Robotics+and+applied+AI;Machine+learning+and+LLMs;I+build+things+people+actually+use" alt="Robotics and applied AI" />
+</p>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=58A6FF&center=true&vCenter=true&width=560&lines=Robotics+and+applied+AI;Machine+learning+and+LLMs;I+build+things+people+actually+use" alt="Robotics and applied AI" />
 
 <a href="https://www.linkedin.com/in/rod-manc/"><img src="https://img.shields.io/badge/LinkedIn-Rodrigo%20Manchado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://x.com/manchadito09"><img src="https://img.shields.io/badge/X-@manchadito09-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
