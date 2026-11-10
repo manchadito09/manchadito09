@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=58A6FF&center=true&vCenter=true&width=560&lines=Robotics+and+applied+AI;Python+backends+with+real+tests;I+build+things+people+actually+use" alt="Robotics and applied AI" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=58A6FF&center=true&vCenter=true&width=560&lines=Robotics+and+applied+AI;Machine+learning+and+LLMs;I+build+things+people+actually+use" alt="Robotics and applied AI" />
 
 <a href="https://www.linkedin.com/in/rod-manc/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://x.com/manchadito09"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
@@ -12,7 +12,7 @@
 
 <br/>
 
-Third-year Computer Engineering student at Universidad Rey Juan Carlos. I work on **robotics**, **applied AI** and **Python backends**.
+Third-year Computer Engineering student at Universidad Rey Juan Carlos. I build **robotics** and **applied AI** projects, mostly in **Python**, and I'm especially into **machine learning** and **LLMs**.
 
 My rule of thumb: **the model reads, the code decides**. Every project below ships with tests, and the ones I built for myself run every day.
 
@@ -38,8 +38,20 @@ My rule of thumb: **the model reads, the code decides**. Every project below shi
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://cabida.vercel.app">CABIDA</a></h3>
+      <sub>FINALIST · II DATATHON LODCOREMADRID 2026 · TEAM OF 4</sub><br/><br/>
+      Where will Madrid's next million people fit? For 155 towns, it compares how many people are coming with how many fit in housing, schools and health centres.
+      Open-data pipeline, a model validated against 2015-2025, an interactive map and an AI assistant.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/MapLibre-396CB2?style=flat-square" />
+      <img src="https://img.shields.io/badge/LLMs-6B4FBB?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/manchadito09/HackSpain-Maisa-Bacon-Queso">FactU</a></h3>
-      <sub>HACKSPAIN 2026 · TEAM OF 5</sub><br/><br/>
+      <sub>HACKSPAIN 2026 · MAISA TRACK · TEAM OF 5</sub><br/><br/>
       Decides whether to <b>pay, reject or escalate</b> PDF invoices, cross-checking an Excel master and a legacy ERP.
       OCR and an LLM read the data; a rules engine makes the call and keeps the evidence.
       <b>500 invoices in under a minute, €0 inference cost.</b>
@@ -49,6 +61,8 @@ My rule of thumb: **the model reads, the code decides**. Every project below shi
       <img src="https://img.shields.io/badge/LLMs-6B4FBB?style=flat-square" />
       <img src="https://img.shields.io/badge/359%20tests-238636?style=flat-square" />
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>Órbita</h3>
       <sub>PRIVATE · IN DAILY USE</sub><br/><br/>
@@ -56,34 +70,30 @@ My rule of thumb: **the model reads, the code decides**. Every project below shi
       Hand-written SQL, per-user data isolation, and it works without JavaScript.
       Self-hosted on a home server.
       <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white" />
       <img src="https://img.shields.io/badge/712%20tests-238636?style=flat-square" />
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>Second Brain</h3>
       <sub>PRIVATE · IN DAILY USE</sub><br/><br/>
-      My notes in Markdown and Obsidian, with a Telegram bot on top: it understands text and voice, keeps a daily journal and reminds me of what is coming.
+      My notes in Markdown and Obsidian, with an LLM-powered Telegram bot on top: it understands text and voice, keeps a daily journal and reminds me of what is coming.
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/LLMs-6B4FBB?style=flat-square" />
       <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
-      <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" />
       <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/manchadito09/Minishell">Minishell</a></h3>
-      <sub>SYSTEMS PROGRAMMING</sub><br/><br/>
-      A Unix shell written in C: chains of pipes, I/O redirection, background jobs with <code>jobs</code> and <code>fg</code>, and POSIX signal handling.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-      <img src="https://img.shields.io/badge/POSIX-333?style=flat-square" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
     </td>
   </tr>
 </table>
+
+<br/>
+
+## Hackathons
+
+- **II Datathon LoDCOREMadrid 2026** (UC3M) · **Finalist** with [CABIDA](https://cabida.vercel.app), an open-data tool for Madrid's population growth.
+- **HackSpain 2026** · Maisa track with [FactU](https://github.com/manchadito09/HackSpain-Maisa-Bacon-Queso), automated invoice review with OCR and LLMs.
 
 <br/>
 
@@ -91,9 +101,9 @@ My rule of thumb: **the model reads, the code decides**. Every project below shi
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,c,java,mysql,bash,js,fastapi,sqlite,firebase,ros,linux,git,github,vscode,obsidian&perline=15" alt="Python, C, Java, SQL, Bash, JavaScript, FastAPI, SQLite, Firebase, ROS, Linux, Git, GitHub, VS Code, Obsidian" />
+<img src="https://skillicons.dev/icons?i=py,c,java,mysql,bash,ts,react,fastapi,sqlite,ros,linux,git,github,vscode,obsidian&perline=15" alt="Python, C, Java, SQL, Bash, TypeScript, React, FastAPI, SQLite, ROS, Linux, Git, GitHub, VS Code, Obsidian" />
 
-<sub>Python · C · Java · SQL · Bash · JavaScript · FastAPI · SQLite · Firebase · ROS 2 · Linux · Git · VS Code</sub>
+<sub>Python · C · Java · SQL · Bash · TypeScript · React · FastAPI · SQLite · ROS 2 · Linux · Git · LLMs</sub>
 
 </div>
 
