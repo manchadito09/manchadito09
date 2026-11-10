@@ -2,30 +2,21 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Hey%2C+I'm+Rodrigo+Manchado;Computer+Engineering+%40+URJC;Robotics+%2B+Applied+AI+%2B+Python+backends;I+build+things+people+actually+use" alt="Typing intro" />
 
-Computer Engineering student at URJC, Madrid (3rd year) · Robotics & AI Developer at Direct Supply, USA (Summer 2026)
+Computer Engineering student at URJC, Madrid (3rd year)
 
 </div>
 
 I focus on robotics, applied AI and Python backends. I like to let models read and code decide: every project here ships with tests, and the ones I use myself run every day. Open to part-time or remote roles.
-
-<table>
-  <tr>
-    <td align="center" width="25%"><h3>1</h3>autonomous robot<br/>demoed with no teleoperation</td>
-    <td align="center" width="25%"><h3>500</h3>invoices processed<br/>in under 1 minute</td>
-    <td align="center" width="25%"><h3>1,000+</h3>automated tests<br/>across my projects</td>
-    <td align="center" width="25%"><h3>€0</h3>inference cost<br/>with local models</td>
-  </tr>
-</table>
 
 ## What I've built
 
 <table>
   <tr>
     <td colspan="2">
-      <h3><a href="https://github.com/manchadito09/Robot-DS">Office Guide Robot</a> · Direct Supply, Summer 2026</h3>
+      <h3><a href="https://github.com/manchadito09/Robot-DS">Office Guide Robot</a></h3>
       You say <i>"take me to the kitchen"</i>. It plans the route, drives around the chair legs and talks to you on the way.
       Lead developer: architecture, navigation, perception, voice and the touchscreen app.
-      Every model runs <b>locally</b> on the robot, and it was demoed live to company leadership.<br/><br/>
+      Every model runs <b>locally</b> on the robot, and it was demoed live, end to end, with no teleoperation.<br/><br/>
       <code>ROS 2 Humble</code> <code>Nav2</code> <code>SLAM Toolbox</code> <code>Jetson Orin Nano</code> <code>LiDAR</code> <code>Whisper</code> <code>Piper</code> <code>LLMs</code>
     </td>
   </tr>
