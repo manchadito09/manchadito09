@@ -13,8 +13,6 @@
 
 I'm from Cubas de la Sagra, a small town outside Madrid, and I study Computer Engineering at Universidad Rey Juan Carlos. I learn best by building: most of what I know came from projects I wanted to exist, not from exams.
 
-In summer 2026 I flew to Milwaukee to build a robot from scratch at Direct Supply. Before that I paid my own way working in a warehouse, on construction sites and behind a padel club desk, so I value code that solves a real problem for a real person.
-
 ---
 
 ## Projects
@@ -26,10 +24,6 @@ In summer 2026 I flew to Milwaukee to build a robot from scratch at Direct Suppl
 | **Órbita** | My life in one web app: calendar, notes, university grades, money and workouts. Hand-written SQL (no ORM), per-user data isolation, works without JavaScript, in Spanish and English. **712 automated tests.** Self-hosted on a home server and in daily use. (Code is private.) | <img src="https://skillicons.dev/icons?i=py,fastapi,sqlite" height="24"/> |
 | **Second Brain** | My notes in Markdown + Obsidian, with a Telegram bot on top: free LLMs through Groq, voice messages, a daily journal and reminders from Google Calendar. (Code is private.) | <img src="https://skillicons.dev/icons?i=py,obsidian" height="24"/> |
 | **[Minishell](https://github.com/manchadito09/Minishell)** | A Unix shell in C: N-command pipes, I/O redirection, background jobs (`jobs`, `fg`) and POSIX signal handling. | <img src="https://skillicons.dev/icons?i=c,linux,bash" height="24"/> |
-| **[CHIP-8](https://github.com/manchadito09/CHIP-8)** | CHIP-8 emulator from scratch, with no external libraries, to understand the fetch → decode → execute cycle of a CPU. | <img src="https://skillicons.dev/icons?i=py" height="24"/> |
-| **[reporte-ventas](https://github.com/manchadito09/reporte-ventas)** | Turns a messy sales Excel into a clean one-page PDF report with KPIs and charts. Shipped as a drag-and-drop `.exe`, so non-programmers can use it. | <img src="https://skillicons.dev/icons?i=py" height="24"/> pandas |
-| **[GestorNotas](https://github.com/manchadito09/GestorNotas)** | Desktop app to organise courses and compute weighted final grades, with CSV export. | <img src="https://skillicons.dev/icons?i=java,sqlite" height="24"/> JavaFX |
-
 ---
 
 ## Tools I use
