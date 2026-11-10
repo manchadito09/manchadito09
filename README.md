@@ -1,67 +1,100 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=190&section=header&text=Rodrigo%20Manchado&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20%C2%B7%20URJC%20%C2%B7%20Madrid&descSize=16&descAlignY=60" width="100%" alt="Rodrigo Manchado" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Hey%2C+I'm+Rodrigo+Manchado;Computer+Engineering+%40+URJC;Robotics+%2B+Applied+AI+%2B+Python+backends;I+build+things+people+actually+use" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=58A6FF&center=true&vCenter=true&width=560&lines=Robotics+and+applied+AI;Python+backends+with+real+tests;I+build+things+people+actually+use" alt="Robotics and applied AI" />
 
-Computer Engineering student at URJC, Madrid (3rd year)
+<a href="https://www.linkedin.com/in/rod-manc/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/manchadito09"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<img src="https://img.shields.io/badge/Open%20to-part--time%20%7C%20remote-238636?style=for-the-badge" alt="Open to part-time or remote" />
 
 </div>
 
-I focus on robotics, applied AI and Python backends. I like to let models read and code decide: every project here ships with tests, and the ones I use myself run every day. Open to part-time or remote roles.
+<br/>
 
-## What I've built
+Third-year Computer Engineering student at Universidad Rey Juan Carlos. I work on **robotics**, **applied AI** and **Python backends**.
+
+My rule of thumb: **the model reads, the code decides**. Every project below ships with tests, and the ones I built for myself run every day.
+
+<br/>
+
+## Projects
 
 <table>
   <tr>
-    <td colspan="2">
+    <td colspan="2" valign="top">
       <h3><a href="https://github.com/manchadito09/Robot-DS">Office Guide Robot</a></h3>
-      You say <i>"take me to the kitchen"</i>. It plans the route, drives around the chair legs and talks to you on the way.
-      Lead developer: architecture, navigation, perception, voice and the touchscreen app.
-      Every model runs <b>locally</b> on the robot, and it was demoed live, end to end, with no teleoperation.<br/><br/>
-      <code>ROS 2 Humble</code> <code>Nav2</code> <code>SLAM Toolbox</code> <code>Jetson Orin Nano</code> <code>LiDAR</code> <code>Whisper</code> <code>Piper</code> <code>LLMs</code>
+      An indoor guide robot. You say <i>"take me to the kitchen"</i>: it plans the route, drives around the chair legs and talks to you on the way.
+      I was the lead developer: architecture, navigation, perception, voice and the touchscreen app.
+      Every model runs <b>locally</b> on the robot. Demoed live, end to end, with <b>no teleoperation</b>.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nav2-22314E?style=flat-square" />
+      <img src="https://img.shields.io/badge/Jetson%20Orin%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+      <img src="https://img.shields.io/badge/LiDAR%20SLAM-333?style=flat-square" />
+      <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/manchadito09/HackSpain-Maisa-Bacon-Queso">FactU</a> · HackSpain 2026</h3>
-      Team of 5. Decides whether to <b>pay, reject or escalate</b> PDF invoices, cross-checking an Excel master and a legacy ERP.
-      OCR and an LLM read; a rules engine decides and keeps the evidence of every decision.<br/><br/>
-      <code>Python</code> <code>OCR</code> <code>LLMs</code> <code>SQLite</code> · 359 tests
+      <h3><a href="https://github.com/manchadito09/HackSpain-Maisa-Bacon-Queso">FactU</a></h3>
+      <sub>HACKSPAIN 2026 · TEAM OF 5</sub><br/><br/>
+      Decides whether to <b>pay, reject or escalate</b> PDF invoices, cross-checking an Excel master and a legacy ERP.
+      OCR and an LLM read the data; a rules engine makes the call and keeps the evidence.
+      <b>500 invoices in under a minute, €0 inference cost.</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/OCR-333?style=flat-square" />
+      <img src="https://img.shields.io/badge/LLMs-6B4FBB?style=flat-square" />
+      <img src="https://img.shields.io/badge/359%20tests-238636?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h3>Órbita · <i>private</i></h3>
+      <h3>Órbita</h3>
+      <sub>PRIVATE · IN DAILY USE</sub><br/><br/>
       My life in one web app: calendar, notes, grades, money and workouts.
-      Hand-written SQL, per-user data isolation, works without JavaScript.
-      Self-hosted and in daily use.<br/><br/>
-      <code>FastAPI</code> <code>SQLite</code> <code>Jinja2</code> · 712 tests
+      Hand-written SQL, per-user data isolation, and it works without JavaScript.
+      Self-hosted on a home server.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white" />
+      <img src="https://img.shields.io/badge/712%20tests-238636?style=flat-square" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Second Brain · <i>private</i></h3>
-      My notes in Markdown + Obsidian, with a Telegram bot on top: free LLMs through Groq, voice messages, a daily journal and calendar reminders.<br/><br/>
-      <code>Python</code> <code>Telegram API</code> <code>Groq</code> <code>Obsidian</code>
+      <h3>Second Brain</h3>
+      <sub>PRIVATE · IN DAILY USE</sub><br/><br/>
+      My notes in Markdown and Obsidian, with a Telegram bot on top: it understands text and voice, keeps a daily journal and reminds me of what is coming.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+      <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" />
+      <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/manchadito09/Minishell">Minishell</a></h3>
-      A Unix shell written in C: N-command pipes, I/O redirection, background jobs (<code>jobs</code>, <code>fg</code>) and POSIX signal handling.<br/><br/>
-      <code>C</code> <code>POSIX</code> <code>Linux</code>
+      <sub>SYSTEMS PROGRAMMING</sub><br/><br/>
+      A Unix shell written in C: chains of pipes, I/O redirection, background jobs with <code>jobs</code> and <code>fg</code>, and POSIX signal handling.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+      <img src="https://img.shields.io/badge/POSIX-333?style=flat-square" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
     </td>
   </tr>
 </table>
 
+<br/>
+
 ## Stack
 
-| | |
-|---|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=py,c,java,mysql,bash,js" height="32"/> |
-| **Backend & data** | <img src="https://skillicons.dev/icons?i=fastapi,sqlite,firebase,html,css" height="32"/> |
-| **Robotics & AI** | <img src="https://skillicons.dev/icons?i=ros,linux" height="32"/> &nbsp; Nav2 · Jetson · LiDAR · LLMs · Whisper · OCR |
-| **Daily tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,obsidian" height="32"/> |
+<div align="center">
 
-## Let's talk
+<img src="https://skillicons.dev/icons?i=py,c,java,mysql,bash,js,fastapi,sqlite,firebase,ros,linux,git,github,vscode,obsidian&perline=15" alt="Python, C, Java, SQL, Bash, JavaScript, FastAPI, SQLite, Firebase, ROS, Linux, Git, GitHub, VS Code, Obsidian" />
 
-<p>
-  <a href="https://www.linkedin.com/in/rod-manc/"><img src="https://img.shields.io/badge/LinkedIn-Rodrigo%20Manchado-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/manchadito09"><img src="https://img.shields.io/badge/X-@manchadito09-000000?style=flat-square&logo=x&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Based%20in-Madrid,%20Spain-E34F26?style=flat-square&logo=googlemaps&logoColor=white" />
-</p>
+<sub>Python · C · Java · SQL · Bash · JavaScript · FastAPI · SQLite · Firebase · ROS 2 · Linux · Git · VS Code</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=110&section=footer" width="100%" alt="" />
