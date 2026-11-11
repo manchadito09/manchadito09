@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="banner.svg" width="100%" alt="Rodrigo Manchado" />
+  <picture><img src="banner.svg" width="100%" alt="Rodrigo Manchado" /></picture>
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=58A6FF&center=true&vCenter=true&width=560&height=32&lines=Robotics+and+applied+AI;Machine+learning+and+LLMs;I+build+things+people+actually+use" alt="Robotics and applied AI" />
+  <picture><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=58A6FF&center=true&vCenter=true&width=560&height=32&lines=Robotics+and+applied+AI;Machine+learning+and+LLMs;I+build+things+people+actually+use" alt="Robotics and applied AI" /></picture>
 </p>
 
 <div align="center">
