@@ -105,5 +105,3 @@ Third-year Computer Engineering student at Universidad Rey Juan Carlos. I build 
 <sub>Python · C · Java · SQL · Bash · TypeScript · React · FastAPI · SQLite · ROS 2 · Linux · Git · LLMs</sub>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=110&section=footer" width="100%" alt="" />
